@@ -22,10 +22,13 @@
     </header>
 
     <section class="button-group">
-        <a class="btn btn--primary" href="#">Присоединяйся!</a>
-            <a href="#" class="btn btn--logo slack"><img src="/assets/slack.svg" alt="slack"/></a>
-            <a href="#" class="btn btn--logo telegram"><img src="/assets/telegram.svg" alt="telegram"/></a>
-            <a href="#" class="btn btn--logo telegram"><img src="/assets/mail.svg" alt="mail"/></a>
+        <a class="btn btn--primary"
+           href="https://docs.google.com/forms/d/e/1FAIpQLSfz6D-JGA6q0Fc1CQHS0FiS6P5K-6FPUMncmCwdWiL23cqNIA/viewform">Присоединяйся!</a>
+            <a class="btn btn--logo slack"
+               href="http://ylnk.ru/itkbrslack"><img src="/assets/slack.svg" alt="slack"/></a>
+            <a href="https://t.me/itkbr"
+               class="btn btn--logo telegram"><img src="/assets/telegram.svg" alt="telegram"/></a>
+            <a href="#" class="btn btn--logo mail"><img src="/assets/mail.svg" alt="mail"/></a>
 
     </section>
 
